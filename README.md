@@ -1,3 +1,3 @@
 # projeto feito com js asyncron
 
-Neste projeto fiz a solicita;'ao de uma api de gifs e adicionei o botao refresh e uma barra de pesquisa
+Desenvolvi um projeto utilizando JavaScript assíncrono. Nele, realizei solicitações a uma API de gifs, incorporando funcionalidades como o botão de atualização e uma barra de pesquisa
