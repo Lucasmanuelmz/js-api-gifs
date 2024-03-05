@@ -61,7 +61,7 @@ body {
     align-items: center;
 }
 
-#btn {
+#refresh {
     display: block;
     position: absolute;
     top: 20px;

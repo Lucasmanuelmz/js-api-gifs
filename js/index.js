@@ -20,7 +20,7 @@ function searchGiphy() {
       if (data.data.images && data.data.images.original && data.data.images.original.url) {
         img.src = data.data.images.original.url;
         btn.addEventListener('click', () => {
-          window.location.reload();
+          location.reload();
         });
       }
     })
